@@ -4,11 +4,9 @@ A Backbone powered application in a single script widget.
 
 
 ## Required
----
 You'll need [node](https://nodejs.org/en/) and [npm](https://www.npmjs.com/) to build the widget.
 
 ## Included
----
 Included in the widget build is:
 - [Require](http://requirejs.org/)
 - [Require Text](http://requirejs.org/docs/api.html#text)
@@ -22,7 +20,6 @@ Included in the widget build is:
 
 
 ## Use
----
 Once built include this on any HTML page to run the widget.
  ```sh
  <script type="text/javascript" src="http://domain.com/path/to/widget.js"></script>
@@ -33,13 +30,11 @@ template.
 
 
 ## Setup
----
 ```sh
 $ npm install
 ```
 
 ## Build
----
 ```sh
 $ node node_modules/requirejs/bin/r.js -o widget/build.js include=requireLib wrap=true
 ```

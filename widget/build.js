@@ -1,5 +1,5 @@
 /**
- * 
+ *
  * RUN: node node_modules/requirejs/bin/r.js -o widget/build.js include=requireLib wrap=true
  */
 ({
