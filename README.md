@@ -12,7 +12,7 @@ Included in the widget build is:
 - [Require Text](http://requirejs.org/docs/api.html#text)
 - [Backbone](http://backbonejs.org/)
 - [Underscore](http://underscorejs.org/)
-- (Jquery)[http://jquery.com/]
+- [Jquery](http://jquery.com/)
 - Widget View
 - User Model
 - Widget Template 
